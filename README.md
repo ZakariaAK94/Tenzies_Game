@@ -7,7 +7,7 @@ A React-based game that showcases interactive features and responsive design. Th
 ## Demo
 
 Check out the live version of the game here:  
-[**Assembly Game - Live Demo**](https://ZakariaAK94.github.io/Tenzies_Game/)
+[**Tenzies Game - Live Demo**](https://ZakariaAK94.github.io/Tenzies_Game/)
 
 ---
 
