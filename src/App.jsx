@@ -48,7 +48,7 @@ export default function App() {
     
   }
 
-  const diceElements = dice.map(diceObj=> <Die isgameWon={gameWon} key={diceObj.id} value={diceObj.value} isHeld={diceObj.isHeld} hold={()=>hold(diceObj.id)} />)
+  const diceElements = dice.map(diceObj=> <Die gameWon={gameWon} key={diceObj.id} value={diceObj.value} isHeld={diceObj.isHeld} hold={()=>hold(diceObj.id)} />)
   
   return (
     <>
